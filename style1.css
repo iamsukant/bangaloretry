@@ -1,8 +1,16 @@
 table
 {
   border: 2px solid black;
+  width: 25%
 }
-th,td{
+th{
 
   border:1px solid black;
+  padding: 5px;
+  background-color: lightgray;
+}
+td
+{
+  border:1px solid black;
+  padding: 5px;
 }
